@@ -1,100 +1,89 @@
-# Hello there 👋
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+# 👋 أهلاً، أنا محمد السعدني
 
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-ne_class SoftwareEngineer:
+class BackendDeveloper:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Mohamed El-Saadany"
+        self.role = "Backend Developer"
+        self.stack = ["Node.js", "Python", "Databases", "APIs"]
+        self.learning = ["System Design", "Microservices"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Welcome to my GitHub profile 👨‍💻")
 
-
-me = SoftwareEngineer()
+me = BackendDeveloper()
 me.say_hi()
 ```
 
-## 📝 Blogs
+---
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+## 🚀 عني
 
-### 📔 Latest Blog posts
+* 👨‍💻 Backend Developer شغوف ببناء APIs و Systems scalable
+* 🧠 مهتم بـ System Design و Architecture
+* ⚡ بحب أشتغل على Performance و Optimization
+* 🌍 هدفي أشتغل على مشاريع كبيرة وتأثير حقيقي
 
-<!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
-- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
-- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
-- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
-<!-- BLOG-POST-LIST:END -->
+---
 
-## 🔧 Technologies & Tools
+## 🛠️ Tech Stack
 
-**Cloud Services:**
+### 💻 Languages
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
-![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
-![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
-![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
-![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
-![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
-![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
-![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
-![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=JavaScript)
 
-**Programming Languages:**
+### ⚙️ Backend
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![Node.js](https://img.shields.io/badge/-Node.js-000?\&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?\&logo=express)
+![Django](https://img.shields.io/badge/-Django-000?\&logo=django)
 
+### 🗄️ Databases
 
-**Tools and Services:**
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?\&logo=postgresql)
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+### 🧰 Tools
 
-<!-- ## &#x1f4c8; GitHub Stats
+![Docker](https://img.shields.io/badge/-Docker-000?\&logo=docker)
+![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?\&logo=linux)
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
+---
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=darkhub)
 
-## 🗂️ Highlight Projects
+---
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
+## 📌 Featured Projects
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
+* 🔗 Project 1: API System
+* 🔗 Project 2: Authentication Service
+* 🔗 Project 3: E-commerce Backend
 
-<!-- ## 👨‍💻 This week, I spent my time on:
+---
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&liheight=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
+## 📫 تواصل معايا
+
+* LinkedIn: (حطه هنا)
+* Email: (حطه هنا)
+
+---
+
+⭐ لو عجبك شغلي، اعمل Star لأي Repo ❤️
+
